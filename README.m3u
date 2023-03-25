@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A1 Montenegro" tvg-logo="https://www.jagledam.com/logo/logoa1.jpg" tvg-name="A1 Montenegro" group-title="Crna Gora",A1 Montenegro
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/198532.ts
+#EXTINF:-1 tvg-id="Alfa" tvg-logo="https://www.jagledam.com/logo/logoalfa.jpg" tvg-name="Alfa" group-title="Bosna i Hercegovina",Alfa
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/65942.ts
+#EXTINF:-1 tvg-id="Alfa TV" tvg-logo="https://www.jagledam.com/logo/logoalfatv.jpg" tvg-name="Alfa TV" group-title="Makedonija",Alfa TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/4283.ts
+#EXTINF:-1 tvg-id="Alsat M MK" tvg-logo="https://www.jagledam.com/logo/alsatm.jpg" tvg-name="Alsat M MK" group-title="Makedonija",Alsat M MK
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/1346.ts
+#EXTINF:-1 tvg-id="Alternativna ATV" tvg-logo="https://www.jagledam.com/logo/logoatv.jpg" tvg-name="Alternativna ATV" group-title="Bosna i Hercegovina",Alternativna ATV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/6893.ts
+#EXTINF:-1 tvg-id="b92" tvg-logo="https://www.jagledam.com/logo/logob92.jpg" tvg-name="b92" group-title="Srbija",b92
+https://vod1.laki.eu/b92/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Belle Amie" tvg-logo="https://www.jagledam.com/logo/belleamie.jpg" tvg-name="TV Belle Amie" group-title="Srbija",TV Belle Amie
+http://92.60.238.10:1935/live/belleamie/index.m3u8
+#EXTINF:-1 tvg-id="BHT 1" tvg-logo="https://www.jagledam.com/logo/logobht.jpg" tvg-name="BHT 1" group-title="Bosna i Hercegovina",BHT 1
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3457.ts
+#EXTINF:-1 tvg-id="BN" tvg-logo="https://www.jagledam.com/logo/logobn.jpg" tvg-name="BN" group-title="Bosna i Hercegovina",BN
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="BTR" tvg-logo="https://www.jagledam.com/logo/logobtr.jpg" tvg-name="BTR" group-title="Makedonija",BTR
+http://fms.zulu.mk:554/zulu/btr_1/playlist_b125000_w1132785237.m3u8
+#EXTINF:-1 tvg-id="Cegrani Media" tvg-logo="https://www.jagledam.com/logo/logocergani.jpg" tvg-name="Cegrani Media" group-title="Kosovo",Cegrani Media
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/146.m3u8
+#EXTINF:-1 tvg-id="Dobra TV" tvg-logo="https://www.jagledam.com/logo/logoa1bosnia.jpg" tvg-name="Dobra TV" group-title="Bosna i Hercegovina",Dobra TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/295234.ts
+#EXTINF:-1 tvg-id="Doma" tvg-logo="https://www.jagledam.com/logo/logodoma.jpg" tvg-name="Doma" group-title="Hrvatska",Doma
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3398.ts
+#EXTINF:-1 tvg-id="Duga" tvg-logo="https://www.jagledam.com/logo/logoduga.jpg" tvg-name="Duga" group-title="Srbija",Duga
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1358014199.m3u8
+#EXTINF:-1 tvg-id="Elta HD" tvg-logo="https://www.jagledam.com/logo/logoelta.jpg" tvg-name="Elta HD" group-title="Bosna i Hercegovina",Elta HD
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/192034.ts
+#EXTINF:-1 tvg-id="Face TV" tvg-logo="https://www.jagledam.com/logo/logoface.jpg" tvg-name="Face TV" group-title="Bosna i Hercegovina",Face TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/10681.ts
+#EXTINF:-1 tvg-id="Federalna Televizija" tvg-logo="https://www.jagledam.com/logo/logoftv.jpg" tvg-name="Federalna Televizija" group-title="Bosna i Hercegovina",Federalna Televizija
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/6901.ts
+#EXTINF:-1 tvg-id="Gea TV" tvg-logo="https://www.jagledam.com/logo/logogea.jpg" tvg-name="Gea TV" group-title="Slovenija",Gea TV
+rtmp://93.103.159.128/live/geatv
+#EXTINF:-1 tvg-id="H1 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh1.jpg" tvg-name="H1 Hugo TV" group-title="Makedonija",H1 Hugo TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/23472.ts
+#EXTINF:-1 tvg-id="H2 Hugo TV" tvg-logo="https://www.jagledam.com/logo/logoh2.jpg" tvg-name="H2 Hugo TV" group-title="Makedonija",H2 Hugo TV
+http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
+#EXTINF:-1 tvg-id="Happy TV" tvg-logo="https://www.jagledam.com/logo/logohappy.jpg" tvg-name="Happy TV" group-title="Srbija",Happy TV
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/13.m3u8
+#EXTINF:-1 tvg-id="Hayat" tvg-logo="https://www.jagledam.com/logo/logohayat.jpg" tvg-name="Hayat" group-title="Bosna i Hercegovina",Hayat
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/17.m3u8
+#EXTINF:-1 tvg-id="Hayat Plus" tvg-logo="https://www.jagledam.com/logo/logohayatplus.jpg" tvg-name="Hayat Plus" group-title="Bosna i Hercegovina",Hayat Plus
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/6899.ts
+#EXTINF:-1 tvg-id="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" tvg-name="HRT 1" group-title="Hrvatska",HRT 1
+https://vod1.laki.eu/hrt1/video.m3u8
+#EXTINF:-1 tvg-id="HRT 1" tvg-logo="https://www.jagledam.com/logo/logohrt1.jpg" tvg-name="HRT 1" group-title="Hrvatska",HRT 1
+https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+#EXTINF:-1 tvg-id="HRT  2" tvg-logo="https://www.jagledam.com/logo/logohrt2.jpg" tvg-name="HRT  2" group-title="Hrvatska",HRT  2
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3394.ts
+#EXTINF:-1 tvg-id="HRT 3" tvg-logo="https://www.jagledam.com/logo/logohrt3.jpg" tvg-name="HRT 3" group-title="Hrvatska",HRT 3
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3395.ts
+#EXTINF:-1 tvg-id="HRT 4" tvg-logo="https://www.jagledam.com/logo/logohrt4.jpg" tvg-name="HRT 4" group-title="Hrvatska",HRT 4
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3396.ts
+#EXTINF:-1 tvg-id="HRT int" tvg-logo="https://www.jagledam.com/logo/logohrtint.jpg" tvg-name="HRT int" group-title="Hrvatska",HRT int
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/16583.ts
+#EXTINF:-1 tvg-id="Kanal 3" tvg-logo="https://www.jagledam.com/logo/logokanal3.jpg" tvg-name="Kanal 3" group-title="Srbija",Kanal 3
+http://iptvtree.net:8080/live/texjab/0vRc5rVmCCtytzP0/47613.ts
+#EXTINF:-1 tvg-id="Kanal 5" tvg-logo="https://www.jagledam.com/logo/logokanal5.jpg" tvg-name="Kanal 5" group-title="Makedonija",Kanal 5
+http://51.195.90.133:8081/tvstanici/2/KANAL-5-mk-AM-playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal 5 Plus" tvg-logo="https://www.jagledam.com/logo/plus5.jpg" tvg-name="Kanal 5 Plus" group-title="Makedonija",Kanal 5 Plus
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
+#EXTINF:-1 tvg-id="KCN 1" tvg-logo="https://www.jagledam.com/logo/logokcn1.jpg" tvg-name="KCN 1" group-title="Srbija",KCN 1
+https://vod1.laki.eu/kopernikus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KCN 2" tvg-logo="https://www.jagledam.com/logo/logokcn2.jpg" tvg-name="KCN 2" group-title="Srbija",KCN 2
+https://vod1.laki.eu/kopernikusmusic/video.m3u8
+#EXTINF:-1 tvg-id="KCN 3" tvg-logo="https://www.jagledam.com/logo/logokcn3.jpg" tvg-name="KCN 3" group-title="Srbija",KCN 3
+https://vod1.laki.eu/svetplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kurir TV" tvg-logo="https://www.jagledam.com/logo/logokurir.jpg" tvg-name="Kurir TV" group-title="Srbija",Kurir TV
+https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1 tvg-id="MIS TV" tvg-logo="https://www.jagledam.com/logo/logomistelevizija.jpg" tvg-name="MIS TV" group-title="Srbija",MIS TV
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MRT 1" tvg-logo="https://www.jagledam.com/logo/mrt1.jpg" tvg-name="MRT 1" group-title="Makedonija",MRT 1
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1 tvg-id="MRT 1 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat.jpg" tvg-name="MRT 1 sat" group-title="Makedonija",MRT 1 sat
+http://vod-c57.interspace.com/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIwIDM6MTY6MTEgUE0maGFzaF92YWx1ZT1GdmUyOW1MTGF1aGc3cTBCb2lqY3V3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTVmNDkxZmJiNjJhOTY=
+#EXTINF:-1 tvg-id="MRT 2" tvg-logo="https://www.jagledam.com/logo/mrt2.jpg" tvg-name="MRT 2" group-title="Makedonija",MRT 2
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-id="MRT 2 sat" tvg-logo="https://www.jagledam.com/logo/logomrtsat2.jpg" tvg-name="MRT 2 sat" group-title="Makedonija",MRT 2 sat
+http://vod-c57.interspace.com/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIwIDM6MTY6MjMgUE0maGFzaF92YWx1ZT1uR1hWaC82V2szU1J5QmtsSmdGWWx3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTVmNDkxZmM3MmE3YjE=
+#EXTINF:-1 tvg-id="MRT 4" tvg-logo="https://www.jagledam.com/logo/logomrt4.jpg" tvg-name="MRT 4" group-title="Makedonija",MRT 4
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_4)/index.m3u8
+#EXTINF:-1 tvg-id="MTM 1 Skopska" tvg-logo="https://www.jagledam.com/logo/logomtm.jpg" tvg-name="MTM 1 Skopska" group-title="Makedonija",MTM 1 Skopska
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-id="Nasa" tvg-logo="https://www.jagledam.com/logo/logonasha.jpg" tvg-name="Nasa" group-title="Srbija",Nasa
+https://vod1.laki.eu/nasatv/video.m3u8
+#EXTINF:-1 tvg-id="Naša TV" tvg-logo="https://www.jagledam.com/logo/nasatv.jpg" tvg-name="Naša TV" group-title="Makedonija",Naša TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="Nova BH" tvg-logo="https://www.jagledam.com/logo/logonovabh.jpg" tvg-name="Nova BH" group-title="Bosna i Hercegovina",Nova BH
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3408.ts
+#EXTINF:-1 tvg-id="Nova M" tvg-logo="https://www.jagledam.com/logo/logonovam.jpg" tvg-name="Nova M" group-title="Crna Gora",Nova M
+https://vod1.laki.eu/novam/video.m3u8
+#EXTINF:-1 tvg-id="Nova M" tvg-logo="https://www.jagledam.com/logo/logonovam.jpg" tvg-name="Nova M" group-title="Crna Gora",Nova M
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/276925.ts
+#EXTINF:-1 tvg-id="Nova RS" tvg-logo="https://www.jagledam.com/logo/novars.jpg" tvg-name="Nova RS" group-title="Srbija",Nova RS
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/10717.ts
+#EXTINF:-1 tvg-id="Nova S" tvg-logo="https://www.jagledam.com/logo/logonovas.jpg" tvg-name="Nova S" group-title="Srbija",Nova S
+https://vod1.laki.eu/novas/video.m3u8
+#EXTINF:-1 tvg-id="Nova TV" tvg-logo="https://www.jagledam.com/logo/logonova.jpg" tvg-name="Nova TV" group-title="Hrvatska",Nova TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/151611.ts
+#EXTINF:-1 tvg-id="O Kanal" tvg-logo="https://www.jagledam.com/logo/logookanal.jpg" tvg-name="O Kanal" group-title="Bosna i Hercegovina",O Kanal
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/58941.ts
+#EXTINF:-1 tvg-id="OBN" tvg-logo="https://www.jagledam.com/logo/logoobn.jpg" tvg-name="OBN" group-title="Bosna i Hercegovina",OBN
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/3456.ts
+#EXTINF:-1 tvg-id="OTV Valentino" tvg-logo="https://www.jagledam.com/logo/logootvv.jpg" tvg-name="OTV Valentino" group-title="Bosna i Hercegovina",OTV Valentino
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/10721.ts
+#EXTINF:-1 tvg-id="Palma Plus" tvg-logo="https://www.jagledam.com/logo/logopalmaplus.jpg" tvg-name="Palma Plus" group-title="Srbija",Palma Plus
+https://vod1.laki.eu/palmaplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Pink 1" tvg-logo="https://www.jagledam.com/logo/logopink.jpg" tvg-name="Pink 1" group-title="Srbija",Pink 1
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/107.m3u8
+#EXTINF:-1 tvg-id="Pink BH" tvg-logo="https://www.jagledam.com/logo/logopinkbh.jpg" tvg-name="Pink BH" group-title="Bosna i Hercegovina",Pink BH
+http://46.240.143.86/PinkMediaBH/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Pink M" tvg-logo="https://www.jagledam.com/logo/logopinkm.jpg" tvg-name="Pink M" group-title="Crna Gora",Pink M
+http://46.240.143.86/PinkMediaM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Pink Plus" tvg-logo="https://www.jagledam.com/logo/logopinkplus.jpg" tvg-name="Pink Plus" group-title="Srbija",Pink Plus
+http://46.240.143.86/PinkPlus/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Pink World" tvg-logo="https://www.jagledam.com/logo/logopinkworld.jpg" tvg-name="Pink World" group-title="Srbija",Pink World
+http://46.240.143.86/PinkWorld/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Planet TV" tvg-logo="https://www.jagledam.com/logo/planettv.jpg" tvg-name="Planet TV" group-title="Slovenija",Planet TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/5572.ts
+#EXTINF:-1 tvg-id="POP TV" tvg-logo="https://www.jagledam.com/logo/logopop.jpg" tvg-name="POP TV" group-title="Slovenija",POP TV
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/5570.ts
+#EXTINF:-1 tvg-id="Prva Plus" tvg-logo="https://www.jagledam.com/logo/logoprvaplus.jpg" tvg-name="Prva Plus" group-title="Srbija",Prva Plus
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/195.m3u8
+#EXTINF:-1 tvg-id="Prva TV" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" tvg-name="Prva TV" group-title="Srbija",Prva TV
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/6.m3u8
+#EXTINF:-1 tvg-id="Prva TV CG" tvg-logo="https://www.jagledam.com/logo/logoprva.jpg" tvg-name="Prva TV CG" group-title="Crna Gora",Prva TV CG
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/108.m3u8
+#EXTINF:-1 tvg-id="Prva World" tvg-logo="https://www.jagledam.com/logo/logoprvaworld.jpg" tvg-name="Prva World" group-title="Srbija",Prva World
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/147.m3u8
+#EXTINF:-1 tvg-id="Red TV" tvg-logo="https://www.jagledam.com/logo/logoredtv.jpg" tvg-name="Red TV" group-title="Srbija",Red TV
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1 tvg-id="Rrokum" tvg-logo="https://www.jagledam.com/logo/logorrokum.jpg" tvg-name="Rrokum" group-title="Kosovo",Rrokum
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCG 1" tvg-logo="https://www.jagledam.com/logo/logortcg1.jpg" tvg-name="RTCG 1" group-title="Crna Gora",RTCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/chunklist_w1277676264_b2128000_slEnglish.m3u8
+#EXTINF:-1 tvg-id="RTCG 2" tvg-logo="https://www.jagledam.com/logo/logortcg2.jpg" tvg-name="RTCG 2" group-title="Crna Gora",RTCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCG MNE" tvg-logo="https://www.jagledam.com/logo/logortcgmne.jpg" tvg-name="RTCG MNE" group-title="Crna Gora",RTCG MNE
+https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCG SAT" tvg-logo="https://www.jagledam.com/logo/logortcgsat.jpg" tvg-name="RTCG SAT" group-title="Crna Gora",RTCG SAT
+https://cdn3.rtcg.me:1936/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTK 1" tvg-logo="https://www.jagledam.com/logo/logortk1.jpg" tvg-name="RTK 1" group-title="Kosovo",RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTK 2" tvg-logo="https://www.jagledam.com/logo/logortk2.jpg" tvg-name="RTK 2" group-title="Kosovo",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTK 3" tvg-logo="https://www.jagledam.com/logo/logortk3.jpg" tvg-name="RTK 3" group-title="Kosovo",RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://www.jagledam.com/logo/logortl.jpg" tvg-name="RTL" group-title="Hrvatska",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://www.jagledam.com/logo/logortl2.jpg" tvg-name="RTL 2" group-title="Hrvatska",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRS" tvg-logo="https://www.jagledam.com/logo/logortrs.jpg" tvg-name="RTRS" group-title="Bosna i Hercegovina",RTRS
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/10735.ts
+#EXTINF:-1 tvg-id="RTRS plus" tvg-logo="https://www.jagledam.com/logo/logortrsplus.jpg" tvg-name="RTRS plus" group-title="Bosna i Hercegovina",RTRS plus
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/20256.ts
+#EXTINF:-1 tvg-id="RTS 1" tvg-logo="https://www.jagledam.com/logo/logorts1.jpg" tvg-name="RTS 1" group-title="Srbija",RTS 1
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/5.m3u8
+#EXTINF:-1 tvg-id="RTS 2" tvg-logo="https://www.jagledam.com/logo/logorts2.jpg" tvg-name="RTS 2" group-title="Srbija",RTS 2
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/8.m3u8
+#EXTINF:-1 tvg-id="RTS 3" tvg-logo="https://www.jagledam.com/logo/logorts3.jpg" tvg-name="RTS 3" group-title="Srbija",RTS 3
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/9.m3u8
+#EXTINF:-1 tvg-id="RTS HD" tvg-logo="https://www.jagledam.com/logo/logortshd.jpg" tvg-name="RTS HD" group-title="Srbija",RTS HD
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/5.m3u8
+#EXTINF:-1 tvg-id="RTS SVET" tvg-logo="https://www.jagledam.com/logo/logortssvet.jpg" tvg-name="RTS SVET" group-title="Srbija",RTS SVET
+http://freetesttv.homeip.net:24621/live/sabaheta/sabaheta/143.m3u8
+#EXTINF:-1 tvg-id="RTV 1" tvg-logo="https://www.jagledam.com/logo/logortv1.jpg" tvg-name="RTV 1" group-title="Srbija",RTV 1
+http://46.240.130.158/RTV1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="RTV 2" tvg-logo="https://www.jagledam.com/logo/logortv2.jpg" tvg-name="RTV 2" group-title="Srbija",RTV 2
+http://46.240.130.158/RTV2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="RTV 21" tvg-logo="https://www.jagledam.com/logo/logortv21.jpg" tvg-name="RTV 21" group-title="Kosovo",RTV 21
+http://eu-ams.bestvideostreaming.is/8748/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV HB" tvg-logo="https://www.jagledam.com/logo/logortvhb.jpg" tvg-name="RTV HB" group-title="Bosna i Hercegovina",RTV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTV Zenica" tvg-logo="https://www.jagledam.com/logo/logortvzenica.jpg" tvg-name="RTV Zenica" group-title="Bosna i Hercegovina",RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="Sahar TV BiH" tvg-logo="https://www.jagledam.com/logo/logosahar.jpg" tvg-name="Sahar TV BiH" group-title="Bosna i Hercegovina",Sahar TV BiH
+https://s-cloud.irib.ir/securelive3/saharbalksd/576p.m3u8?s=fbsibTGcoeLq1a4zXiGZvw&t=1658363701
+#EXTINF:-1 tvg-id="Shutel" tvg-logo="https://www.jagledam.com/logo/shutel.jpg" tvg-name="Shutel" group-title="Makedonija",Shutel
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-id="Sitel" tvg-logo="https://www.jagledam.com/logo/logositel.jpg" tvg-name="Sitel" group-title="Makedonija",Sitel
+http://51.178.133.43:8081/tvstanici/s1/SITEL-mk-AM-playlist.m3u8
+#EXTINF:-1 tvg-id="Sitel 3" tvg-logo="https://www.jagledam.com/logo/sitel3.jpg" tvg-name="Sitel 3" group-title="Makedonija",Sitel 3
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel_3)/index.m3u8
+#EXTINF:-1 tvg-id="SOS" tvg-logo="https://www.jagledam.com/logo/sos.jpg" tvg-name="SOS" group-title="Srbija",SOS
+http://iptvtree.net:8080/live/texjab/0vRc5rVmCCtytzP0/27455.ts
+#EXTINF:-1 tvg-id="SOS" tvg-logo="https://www.jagledam.com/logo/sos.jpg" tvg-name="SOS" group-title="Srbija",SOS
+http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
+#EXTINF:-1 tvg-id="Studio B" tvg-logo="https://www.jagledam.com/logo/logostudiob.jpg" tvg-name="Studio B" group-title="Srbija",Studio B
+https://vod1.laki.eu/studiob/video.m3u8
+#EXTINF:-1 tvg-id="Telma" tvg-logo="https://www.jagledam.com/logo/logotelma.jpg" tvg-name="Telma" group-title="Makedonija",Telma
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1 tvg-id="TK" tvg-logo="https://www.jagledam.com/logo/logortvtk.jpg" tvg-name="TK" group-title="Bosna i Hercegovina",TK
+https://srv1.exyu.cc:443/live/stevica/stevica1234/46.m3u8
+#EXTINF:-1 tvg-id="TSD" tvg-logo="https://www.jagledam.com/logo/logotsd.jpg" tvg-name="TSD" group-title="Srbija",TSD
+https://srv1.exyu.cc:443/live/stevica/stevica1234/254.m3u8
+#EXTINF:-1 tvg-id="TV 2 Gostivar" tvg-logo="https://www.jagledam.com/logo/logotv2gostivar.jpg" tvg-name="TV 2 Gostivar" group-title="Makedonija",TV 2 Gostivar
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TV 21" tvg-logo="https://www.jagledam.com/logo/logotv21.jpg" tvg-name="TV 21" group-title="Makedonija",TV 21
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/13479.ts
+#EXTINF:-1 tvg-id="TV 777" tvg-logo="https://www.jagledam.com/logo/logo777.jpg" tvg-name="TV 777" group-title="Crna Gora",TV 777
+https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w1287579655.m3u8
+#EXTINF:-1 tvg-id="TV Plus" tvg-logo="https://www.jagledam.com/logo/logotvplus.jpg" tvg-name="TV Plus" group-title="Makedonija",TV Plus
+http://kuchini.site:8080/live/messie2022/z430Zln8JmVa/47509.ts
+#EXTINF:-1 tvg-id="TV SLO 1" tvg-logo="https://www.jagledam.com/logo/logoslo1.jpg" tvg-name="TV SLO 1" group-title="Slovenija",TV SLO 1
+https://cdn-live.rtvslo.si/hls/live/2095063/slo1_ott/playlist.m3u8?hdnts=exp=1678564801~acl=*~hmac=2c76d465c7162b79b5b258b7c2217152defb78f84fa07ac03d124be3202c4b1d
+#EXTINF:-1 tvg-id="TV SLO 2" tvg-logo="https://www.jagledam.com/logo/logoslo2.jpg" tvg-name="TV SLO 2" group-title="Slovenija",TV SLO 2
+https://cdn-live.rtvslo.si/hls/live/2095063/slo2_ott/playlist.m3u8?hdnts=exp=1678525202~acl=*~hmac=205d8cbf682903592d99b4227cac2e11ab56e0578787c50511adc3fa3f0d6c0d
+#EXTINF:-1 tvg-id="TV SLO 3" tvg-logo="https://www.jagledam.com/logo/logoslo3.jpg" tvg-name="TV SLO 3" group-title="Slovenija",TV SLO 3
+https://cdn-live.rtvslo.si/hls/live/2095063/slo3_ott/hdntl=exp=1678652194~acl=%2f*~data=hdntl~hmac=dcbeda00c9442847b616de35ad5d80ba626178594d5cc1033f3a7198c781da61/slo3_360p-new.m3u8?hdnts=exp=1678568401~acl=*~hmac=e7a50eee6ca94d3b9852e0f04d6a66d46bede9ca8434b2c23be6b442218e1cdb
+#EXTINF:-1 tvg-id="TV Sonce" tvg-logo="https://www.jagledam.com/logo/logotvsonce.jpg" tvg-name="TV Sonce" group-title="Makedonija",TV Sonce
+https://media2.streambrothers.com:1936/8142/8142/chunklist.m3u8
+#EXTINF:-1 tvg-id="Una TV BiH" tvg-logo="https://www.jagledam.com/logo/logounatv.jpg" tvg-name="Una TV BiH" group-title="Bosna i Hercegovina",Una TV BiH
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/48521/48521_264_live.m3u8
+#EXTINF:-1 tvg-id="Una TV HR" tvg-logo="https://www.jagledam.com/logo/logounatv.jpg" tvg-name="Una TV HR" group-title="Hrvatska",Una TV HR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/48519/48519_264_live.m3u8
+#EXTINF:-1 tvg-id="Una TV SR" tvg-logo="https://www.jagledam.com/logo/logounatv.jpg" tvg-name="Una TV SR" group-title="Srbija",Una TV SR
+https://vod1.laki.eu/tvuna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="https://www.jagledam.com/logo/logovizionplus.jpg" tvg-name="Vizion Plus" group-title="Kosovo",Vizion Plus
+http://eu-ams.bestvideostreaming.is/8703/playlist.m3u8
+#EXTINF:-1 tvg-id="Zico TV" tvg-logo="https://www.jagledam.com/logo/logozico.jpg" tvg-name="Zico TV" group-title="Kosovo",Zico TV
+http://93.157.62.180/ZicoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Zjarr TV" tvg-logo="https://www.jagledam.com/logo/logozjarr.jpg" tvg-name="Zjarr TV" group-title="Kosovo",Zjarr TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
